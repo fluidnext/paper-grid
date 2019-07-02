@@ -2,6 +2,8 @@
 [![Published on NPM](https://img.shields.io/npm/v/%40fluidnext-polymer%2Fpaper-grid.svg)](https://www.npmjs.com/package/%40fluidnext-polymer%2Fpaper-grid)
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/@fluidnext-polymer/paper-grid)
 
+Question!
+Can you please enable Issues on this repository?
 
 # Paper Grid
 
